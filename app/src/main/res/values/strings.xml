@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fitness workouts</string>
+    <string name="str_search">Enter name of exercise</string>
+    <string name="str_exercise">Exercise</string>
+    <string name="str_invalidInput">Invalid input!</string>
+    <string name="str_chest">Chest</string>
+    <string name="str_back">Back</string>
+    <string name="str_legs">Legs</string>
+    <string name="str_abs">Abs</string>
+    <string name="str_shoulders">Shoulders</string>
+    <string name="str_biceps">Biceps</string>
+    <string name="str_triceps">Triceps</string>
+    <string-array name="arr_muscleGroups">
+        <item>@string/str_chest</item>
+        <item>@string/str_back</item>
+        <item>@string/str_legs</item>
+        <item>@string/str_abs</item>
+        <item>@string/str_shoulders</item>
+        <item>@string/str_biceps</item>
+        <item>@string/str_triceps</item>
+    </string-array>
+</resources>
